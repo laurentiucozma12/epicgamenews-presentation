@@ -16,12 +16,19 @@ NewGamingNews is my Gaming News Website. The WebSite is in developement, in a pr
 ## Desktop Screen
 ### Home Page
 ![Home Page](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/home-page-pc.png)
+### Categories Page
 ![Categories Page](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/categories-page-pc.png)
+### About Page
 ![About Page](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/about-page-pc.png)
+### Contact Page
 ![Contact Page](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/contact-page-pc.png)
 
 ## Mobile Screen
+### Home Page M
 ![Home Page M](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/home-page-mobile.png)
+### Categories Page M
 ![Categories Page M](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/categories-page-mobile.png)
+### About Page M
 ![About Page M](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/about-page-mobile.png)
+### Contact Page M
 ![Contact Page M](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/contact-page-mobile.png)
