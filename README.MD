@@ -15,7 +15,7 @@ NewGamingNews is my Gaming News Website. The Website is in development, in a pri
     - [Categories Page](#categories-page-m)
     - [About Page](#about-page-m)
     - [Contact Page](#contact-page-m)     
-## Progress (75% done)
+## Progress
 - [ ] Deployed
 - [ ] Google ads
 ### Admin Side
