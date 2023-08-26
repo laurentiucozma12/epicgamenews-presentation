@@ -1,20 +1,20 @@
 # New Gaming News
 NewGamingNews is my Gaming News Website. The Website is in development, in a private repository because I do not want to share the code publicly. The website is made with the Laravel Framework. However, I can show a few images with the design, since it will be a public Website when it is done.     
       
-**Design**
 - [Progress](#progress)
     - [Admin Side](#admin-side)
     - [User Side](#user-side)
-- [Desktop Screen](#desktop-screen)
-    - [Home Page](#home-page)
-    - [Categories Page](#categories-page)
-    - [About Page](#about-page)
-    - [Contact Page](#contact-page)
-- [Mobile Screen](#mobile-screen)
-    - [Home Page](#home-page-m)
-    - [Categories Page](#categories-page-m)
-    - [About Page](#about-page-m)
-    - [Contact Page](#contact-page-m)     
+- [Design](#design)
+    - [Desktop Screen](#desktop-screen)
+        - [Home Page](#home-page)
+        - [Categories Page](#categories-page)
+        - [About Page](#about-page)
+        - [Contact Page](#contact-page)
+    - [Mobile Screen](#mobile-screen)
+        - [Home Page](#home-page-m)
+        - [Categories Page](#categories-page-m)
+        - [About Page](#about-page-m)
+        - [Contact Page](#contact-page-m)     
 ## Progress
 - [ ] Deployed
 - [ ] Google ads
@@ -49,24 +49,25 @@ NewGamingNews is my Gaming News Website. The Website is in development, in a pri
 - [ ] Users can edit their comments
 - [ ] Users can delete their comments
 - [x] Users can contact us via contact page The mail gets in admin page 
-- [ ] Users can subscribe to our newsletter
+- [ ] Users can subscribe to our newsletter    
     
-## Desktop Screen
-### Home Page
+## Design
+### Desktop Screen
+#### Home Page
 ![Home Page](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/home-page-pc.png)
-### Categories Page
+#### Categories Page
 ![Categories Page](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/categories-page-pc.png)
-### About Page
+#### About Page
 ![About Page](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/about-page-pc.png)
-### Contact Page
+#### Contact Page
 ![Contact Page](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/contact-page-pc.png)
 
-## Mobile Screen
-### Home Page M
+### Mobile Screen
+#### Home Page M
 ![Home Page M](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/home-page-mobile.png)
-### Categories Page M
+#### Categories Page M
 ![Categories Page M](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/categories-page-mobile.png)
-### About Page M
+#### About Page M
 ![About Page M](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/about-page-mobile.png)
-### Contact Page M
+#### Contact Page M
 ![Contact Page M](https://github.com/laurentiucozma12/newgamingnews-presentation/blob/master/projectPreview/contact-page-mobile.png)
