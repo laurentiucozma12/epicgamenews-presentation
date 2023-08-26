@@ -1,6 +1,20 @@
 # New Gaming News
 NewGamingNews is my Gaming News Website. The Website is in development, in a private repository because I do not want to share the code publicly. The website is made with the Laravel Framework. However, I can show a few images with the design, since it will be a public Website when it is done.     
       
+**Design**
+- [Progress](#progress)
+    - [Admin Side](#admin-side)
+    - [User Side](#user-side)
+- [Desktop Screen](#desktop-screen)
+    - [Home Page](#home-page)
+    - [Categories Page](#categories-page)
+    - [About Page](#about-page)
+    - [Contact Page](#contact-page)
+- [Mobile Screen](#mobile-screen)
+    - [Home Page](#home-page-m)
+    - [Categories Page](#categories-page-m)
+    - [About Page](#about-page-m)
+    - [Contact Page](#contact-page-m)     
 ## Progress (75% done)
 - [ ] Deployed
 - [ ] Google ads
@@ -36,18 +50,6 @@ NewGamingNews is my Gaming News Website. The Website is in development, in a pri
 - [ ] Users can delete their comments
 - [x] Users can contact us via contact page The mail gets in admin page 
 - [ ] Users can subscribe to our newsletter
-     
-**Design**
-- [Desktop Screen](#desktop-screen)
-    - [Home Page](#home-page)
-    - [Categories Page](#categories-page)
-    - [About Page](#about-page)
-    - [Contact Page](#contact-page)
-- [Mobile Screen](#mobile-screen)
-    - [Home Page](#home-page-m)
-    - [Categories Page](#categories-page-m)
-    - [About Page](#about-page-m)
-    - [Contact Page](#contact-page-m)     
     
 ## Desktop Screen
 ### Home Page
