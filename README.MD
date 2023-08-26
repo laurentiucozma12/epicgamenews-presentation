@@ -1,5 +1,5 @@
 # New Gaming News
-NewGamingNews is my Gaming News Website. The WebSite is in developement, in a private repository because I do not want to share the code public. The website is made with the Laravel Framework. However I can show a few images with the design, since it will be a public WebSite when it is done.     
+NewGamingNews is my Gaming News Website. The Website is in development, in a private repository because I do not want to share the code publicly. The website is made with the Laravel Framework. However, I can show a few images with the design, since it will be a public Website when it is done.     
 
 **Table of contents**
 - [Desktop Screen](#desktop-screen)
