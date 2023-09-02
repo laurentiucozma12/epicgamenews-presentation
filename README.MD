@@ -1,7 +1,6 @@
 # Epic Game News
-Epic Game News is my Gaming News Website. The Website is in development, in a private repository because I do not want to share the code publicly. The website is made with the Laravel Framework.
-Check out the WebSite here: **[Epic Game News](https://www.epicgamenews.com/)**
-      
+Epic Game News is my Gaming News Website. The Website is in development, in a private repository because I do not want to share the code publicly. The website is made with the Laravel Framework.    
+Check out the WebSite here: **[Epic Game News](https://www.epicgamenews.com/)**    
 - [Progress](#progress)
     - [Admin Side](#admin-side)
     - [User Side](#user-side)   
