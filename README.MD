@@ -4,18 +4,7 @@ Check out the WebSite here: **[Epic Game News](https://www.epicgamenews.com/)**
       
 - [Progress](#progress)
     - [Admin Side](#admin-side)
-    - [User Side](#user-side)
-- [Design](#design)
-    - [Desktop Screen](#desktop-screen)
-        - [Home Page](#home-page)
-        - [Categories Page](#categories-page)
-        - [About Page](#about-page)
-        - [Contact Page](#contact-page)
-    - [Mobile Screen](#mobile-screen)
-        - [Home Page](#home-page-m)
-        - [Categories Page](#categories-page-m)
-        - [About Page](#about-page-m)
-        - [Contact Page](#contact-page-m)     
+    - [User Side](#user-side)   
 ## Progress
 - [X] Deployed
 - [ ] Google ads
