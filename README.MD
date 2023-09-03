@@ -7,6 +7,7 @@ Check out the WebSite here: **[Epic Game News](https://www.epicgamenews.com/)**
 ## Progress
 - [X] Deployed
 - [ ] Google ads
+- [ ] Implement GitHub for deployment
 ### Admin Side
 - [x] CRUD operations for Posts
 - [x] CRUD operations for Categories
