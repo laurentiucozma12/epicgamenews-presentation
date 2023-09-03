@@ -38,5 +38,5 @@ Check out the WebSite here: **[Epic Game News](https://www.epicgamenews.com/)**
 - [x] Users can add comments to posts
 - [ ] Users can edit their comments
 - [ ] Users can delete their comments
-- [x] Users can contact us via contact page The mail gets in admin page 
+- [ ] Users can contact us via contact page The mail gets in admin page 
 - [ ] Users can subscribe to our newsletter    
